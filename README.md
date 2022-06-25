@@ -18,8 +18,56 @@
 <a href="https://twitter.com/alpharsai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpharsai" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+>Frontent Development
+   <table>
+   <tbody>
+	  <tr>
+		  
+ <td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </a>
+      <br>HTML-5
+  </td>
+	 
+	 
+ <td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+       <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </a>
+      <br>CSS-3
+  </td>
+	 
+	 
+<td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </a>
+      <br>JavaScript
+</td>
+</tr>
+</tbody>
+<table>
+	<br>	  
+	
+	
+>Tools
+	
+<table>
+   <tbody>
+	 <tr>
+		  
+<td align="Center" width="25%">   
+        <a href="#dhrumi-tech" >
+        <img height="64px" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png">
+      </a>
+      <br>GIT
+  </td>
+</tr>
+</tbody>
+  </table>
+	
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikumars78&show_icons=true&locale=en&layout=compact" alt="saikumars78" /></p>
 
